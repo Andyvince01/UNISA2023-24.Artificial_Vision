@@ -10,7 +10,6 @@ To execute the test, please use the following command:
 python group08.py --video video.mp4 --configuration config.txt --results results.txt
 ```
 
-The following image shows an example of application of the system:
 ![9](https://github.com/user-attachments/assets/4489ed7c-adef-488d-8d2b-b4b685d953ce)
 
 
@@ -18,5 +17,4 @@ The following image shows an example of application of the system:
 
 Pedestrian attributes recognition from images is nowadays a relevant problem in several real applications, such as digital signage, social robotics, business intelligence, people tracking and multi-camera person re-identification. To this concern, there is a great interest for recognizing simultaneously several information regarding pedestrians. The approach we propose leverages a **Multi-Task Attention Network** (**`MTANet`**), which is adept at handling the complexity and variability inherent in PAR tasks.
 
-The following image shows the `MTANet` architecture:
 ![5](https://github.com/user-attachments/assets/e37aa92b-bbdf-4078-908b-4e44fe3dd86f)
